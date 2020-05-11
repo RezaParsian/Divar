@@ -1,0 +1,1604 @@
+{
+  "places": {
+    "abadan": {
+      "slug": "abadan",
+      "name": "آبادان",
+      "id": 24
+    },
+    "abadeh": {
+      "slug": "abadeh",
+      "name": "آباده",
+      "id": 851
+    },
+    "abdanan": {
+      "slug": "abdanan",
+      "name": "آبدانان",
+      "id": 775
+    },
+    "abyek": {
+      "slug": "abyek",
+      "name": "آبیک",
+      "id": 869
+    },
+    "azarshahr": {
+      "slug": "azarshahr",
+      "name": "آذرشهر",
+      "id": 853
+    },
+    "astara": {
+      "slug": "astara",
+      "name": "آستارا",
+      "id": 824
+    },
+    "astaneh-ashrafiyeh": {
+      "slug": "astaneh-ashrafiyeh",
+      "name": "آستانه اشرفیه",
+      "id": 825
+    },
+    "ashkhaneh": {
+      "slug": "ashkhaneh",
+      "name": "آشخانه",
+      "id": 793
+    },
+    "aq-qala": {
+      "slug": "aq-qala",
+      "name": "آق قلا",
+      "id": 748
+    },
+    "amol": {
+      "slug": "amol",
+      "name": "آمل",
+      "id": 663
+    },
+    "abhar": {
+      "slug": "abhar",
+      "name": "ابهر",
+      "id": 802
+    },
+    "arak": {
+      "slug": "arak",
+      "name": "اراک",
+      "id": 15
+    },
+    "ardabil": {
+      "slug": "ardabil",
+      "name": "اردبیل",
+      "id": 17
+    },
+    "ardakan": {
+      "slug": "ardakan",
+      "name": "اردکان",
+      "id": 846
+    },
+    "urmia": {
+      "slug": "urmia",
+      "name": "ارومیه",
+      "id": 10
+    },
+    "azna": {
+      "slug": "azna",
+      "name": "ازنا",
+      "id": 870
+    },
+    "asadabad": {
+      "slug": "asadabad",
+      "name": "اسدآباد",
+      "id": 842
+    },
+    "esfarāyen": {
+      "slug": "esfarāyen",
+      "name": "اسفراین",
+      "id": 794
+    },
+    "eslamabad-gharb": {
+      "slug": "eslamabad-gharb",
+      "name": "اسلام‌‌آباد غرب",
+      "id": 819
+    },
+    "eslamshahr": {
+      "slug": "eslamshahr",
+      "name": "اسلام‌شهر",
+      "id": 29
+    },
+    "oshnavieh": {
+      "slug": "oshnavieh",
+      "name": "اشنویه",
+      "id": 859
+    },
+    "isfahan": {
+      "slug": "isfahan",
+      "name": "اصفهان",
+      "id": 4,
+      "districts": {
+        "376": "bid-abad",
+        "377": "abbas-abad-isfahan",
+        "378": "lonban",
+        "379": "shahin-shahr",
+        "380": "bozorgmehr",
+        "381": "khane-esfahan",
+        "382": "baharestan-isfahan",
+        "383": "malek-shahr",
+        "384": "fooladshahr",
+        "385": "sepahan-shahr",
+        "386": "sichan",
+        "387": "khomeyni-shahr",
+        "388": "serah-simin",
+        "389": "north-sheikh-sadoogh",
+        "390": "south-sheikh-sadoogh",
+        "391": "chaharbagh-khajoo",
+        "392": "3nd-moshtagh",
+        "393": "soroush",
+        "394": "jolfa",
+        "395": "meydan-shiraz",
+        "396": "meydan-jomhuri-eslami",
+        "397": "mir",
+        "398": "mardavij",
+        "400": "ebn-sina",
+        "401": "molavi",
+        "402": "tiran",
+        "403": "hasht-behesht",
+        "404": "hatef",
+        "406": "neshat",
+        "407": "parvin",
+        "408": "hakim-nezami",
+        "409": "zeynabiye",
+        "410": "dolatabad",
+        "411": "shahreza",
+        "413": "mobarakeh",
+        "414": "robat",
+        "415": "khaghani",
+        "416": "atashgah",
+        "417": "sheikh-bahaee",
+        "645": "hosein-abad",
+        "646": "zarinshahr",
+        "647": "1nd-moshtagh",
+        "648": "2nd-moshtagh",
+        "649": "pol-shiri",
+        "650": "khayam",
+        "651": "vahid-bridge",
+        "875": "gaz"
+      }
+    },
+    "alvand": {
+      "slug": "alvand",
+      "name": "الوند",
+      "id": 872
+    },
+    "aligudarz": {
+      "slug": "aligudarz",
+      "name": "الیگودرز",
+      "id": 830
+    },
+    "andimeshk": {
+      "slug": "andimeshk",
+      "name": "اندیمشک",
+      "id": 796
+    },
+    "ahar": {
+      "slug": "ahar",
+      "name": "اهر",
+      "id": 759
+    },
+    "ahvaz": {
+      "slug": "ahvaz",
+      "name": "اهواز",
+      "id": 7,
+      "districts": {
+        "322": "kianpars",
+        "323": "golestan",
+        "324": "zeitoun-karmandi",
+        "325": "padadshahr",
+        "326": "koorosh",
+        "327": "zeitoun-kargari",
+        "328": "naderi",
+        "329": "parddis",
+        "330": "bahonar",
+        "331": "lashkar-ahvaz",
+        "332": "kuy-enghelab",
+        "333": "kian-abad",
+        "334": "baharestan-ahvaz",
+        "335": "sepidar",
+        "336": "naft",
+        "337": "shahrak-daneshgaah",
+        "338": "amanieh",
+        "339": "shahrak-naftt",
+        "340": "kian-shahr",
+        "341": "meli-rah",
+        "342": "farhang-shahr-ahvaz",
+        "343": "kuy-mahdis",
+        "344": "kuy-nabovvat",
+        "345": "kuy-ramezan",
+        "347": "taleghani",
+        "348": "yousefi",
+        "349": "resaalat",
+        "350": "moeinzadeh",
+        "351": "sad-dastgaah",
+        "352": "ziba-shaahr",
+        "353": "kuy-soltan-manesh",
+        "354": "fooladshahr-ahvaz",
+        "355": "ariya-shahr",
+        "356": "pirozi",
+        "357": "new-side",
+        "358": "zergan",
+        "361": "daghagheleh",
+        "362": "sisad-dastgah",
+        "363": "lashkar-abad",
+        "364": "hasir-abad",
+        "365": "south-shariati",
+        "366": "kuy-alavi",
+        "367": "kut-abdollah",
+        "368": "cantex",
+        "369": "shahrak-aghajari",
+        "370": "shahrak-hafari",
+        "371": "padad-phase2",
+        "372": "padshahr-phase1",
+        "373": "kuy-modarres",
+        "644": "kuy-farhangian"
+      }
+    },
+    "izeh": {
+      "slug": "izeh",
+      "name": "ایذه",
+      "id": 797
+    },
+    "iranshahr": {
+      "slug": "iranshahr",
+      "name": "ایرانشهر",
+      "id": 807
+    },
+    "ilam": {
+      "slug": "ilam",
+      "name": "ایلام",
+      "id": 32
+    },
+    "eyvan": {
+      "slug": "eyvan",
+      "name": "ایوان",
+      "id": 776
+    },
+    "babol": {
+      "slug": "babol",
+      "name": "بابل",
+      "id": 664
+    },
+    "babolsar": {
+      "slug": "babolsar",
+      "name": "بابلسر",
+      "id": 710
+    },
+    "baneh": {
+      "slug": "baneh",
+      "name": "بانه",
+      "id": 662
+    },
+    "bojnurd": {
+      "slug": "bojnurd",
+      "name": "بجنورد",
+      "id": 39
+    },
+    "borazjan": {
+      "slug": "borazjan",
+      "name": "برازجان",
+      "id": 778
+    },
+    "borujerd": {
+      "slug": "borujerd",
+      "name": "بروجرد",
+      "id": 26
+    },
+    "boroujen": {
+      "slug": "boroujen",
+      "name": "بروجن",
+      "id": 785
+    },
+    "bam": {
+      "slug": "bam",
+      "name": "بم",
+      "id": 815
+    },
+    "bonab": {
+      "slug": "bonab",
+      "name": "بناب",
+      "id": 760
+    },
+    "bandar-imam-khomeini": {
+      "slug": "bandar-imam-khomeini",
+      "name": "بندر امام خمینی",
+      "id": 798
+    },
+    "bandar-anzali": {
+      "slug": "bandar-anzali",
+      "name": "بندر انزلی",
+      "id": 708
+    },
+    "bandar-torkaman": {
+      "slug": "bandar-torkaman",
+      "name": "بندر ترکمن",
+      "id": 751
+    },
+    "bandar-abbas": {
+      "slug": "bandar-abbas",
+      "name": "بندرعباس",
+      "id": 18
+    },
+    "bandar-kangan": {
+      "slug": "bandar-kangan",
+      "name": "بندر کنگان",
+      "id": 779
+    },
+    "bandar-ganaveh": {
+      "slug": "bandar-ganaveh",
+      "name": "بندر گناوه",
+      "id": 780
+    },
+    "bandar-mahshahr": {
+      "slug": "bandar-mahshahr",
+      "name": "بندر ماهشهر",
+      "id": 37
+    },
+    "bushehr": {
+      "slug": "bushehr",
+      "name": "بوشهر",
+      "id": 25
+    },
+    "bukan": {
+      "slug": "bukan",
+      "name": "بوکان",
+      "id": 765
+    },
+    "behbahan": {
+      "slug": "behbahan",
+      "name": "بهبهان",
+      "id": 314
+    },
+    "behshahr": {
+      "slug": "behshahr",
+      "name": "بهشهر",
+      "id": 832
+    },
+    "bijar": {
+      "slug": "bijar",
+      "name": "بیجار",
+      "id": 868
+    },
+    "birjand": {
+      "slug": "birjand",
+      "name": "بیرجند",
+      "id": 34
+    },
+    "parsabad": {
+      "slug": "parsabad",
+      "name": "پارس‌آباد",
+      "id": 771
+    },
+    "piranshahr": {
+      "slug": "piranshahr",
+      "name": "پیرانشهر",
+      "id": 766
+    },
+    "pishva": {
+      "slug": "pishva",
+      "name": "پیشوا",
+      "id": 781
+    },
+    "takestan": {
+      "slug": "takestan",
+      "name": "تاکستان",
+      "id": 811
+    },
+    "talesh": {
+      "slug": "talesh",
+      "name": "تالش",
+      "id": 829
+    },
+    "tabriz": {
+      "slug": "tabriz",
+      "name": "تبریز",
+      "id": 5
+    },
+    "torbat-jam": {
+      "slug": "torbat-jam",
+      "name": "تربت جام",
+      "id": 791
+    },
+    "tonekabon": {
+      "slug": "tonekabon",
+      "name": "تنکابن",
+      "id": 833
+    },
+    "tuyserkan": {
+      "slug": "tuyserkan",
+      "name": "تویسرکان",
+      "id": 866
+    },
+    "tehran": {
+      "slug": "tehran",
+      "name": "تهران",
+      "id": 1,
+      "districts": {
+        "40": "ajudaniye",
+        "42": "niavaran",
+        "43": "kashanak",
+        "44": "jamaran",
+        "45": "emamzadeh-ghasem",
+        "46": "golab-darreh",
+        "47": "dar-abad",
+        "48": "aqdasiyeh",
+        "49": "shahrak-naft",
+        "50": "shahrak-golha",
+        "51": "shahrak-mahallati",
+        "52": "sohanak",
+        "53": "ozgol",
+        "54": "darband",
+        "55": "velenjak",
+        "56": "zafaraniyeh",
+        "57": "evin",
+        "58": "darakeh",
+        "59": "farahzad",
+        "60": "mahmoodiyeh",
+        "61": "tajrish",
+        "62": "kamraniyeh",
+        "63": "chizar",
+        "64": "farmanieh",
+        "65": "qeytarieh",
+        "66": "dezashib",
+        "67": "pasdaran",
+        "68": "ekhtiarieh",
+        "70": "qolhak",
+        "71": "darrous",
+        "72": "zafar",
+        "74": "mirdamad",
+        "75": "saadat-abad",
+        "78": "shahrak-gharb",
+        "81": "vanak-village",
+        "82": "punak",
+        "84": "zargandeh",
+        "85": "elahiyeh",
+        "86": "jordan",
+        "87": "ararat",
+        "88": "gisha",
+        "90": "yousef-abad",
+        "91": "amir-abad",
+        "92": "baharestan",
+        "93": "bazaar",
+        "94": "jomhouri",
+        "95": "seyyed-khandan",
+        "96": "gandhi",
+        "99": "hasan-abad",
+        "103": "shian",
+        "104": "lavizan",
+        "105": "ghanat-kowsar",
+        "106": "shemiran-now",
+        "108": "west-tehran-pars",
+        "109": "east-tehran-pars",
+        "110": "majid-abad",
+        "112": "estakhr",
+        "113": "shahrak-omid",
+        "115": "oghaf",
+        "116": "university-of-science-and-technology",
+        "117": "madaen",
+        "118": "dardasht",
+        "119": "hafthoz",
+        "120": "fadak",
+        "121": "hakimiyeh",
+        "122": "zeynabiyeh",
+        "123": "tehran-now",
+        "125": "shams-abad",
+        "126": "majidiyeh",
+        "127": "dabestan",
+        "128": "kazem-abad",
+        "130": "heshmatiyeh",
+        "131": "aramaneh",
+        "132": "nezam-abad",
+        "133": "vahidiyeh",
+        "134": "niroo-havayi",
+        "138": "shahrak-jandarmeri",
+        "139": "marzdaran",
+        "140": "shahrak-koohsar",
+        "141": "morad-abad",
+        "143": "almahdi",
+        "145": "north-jannat-abad",
+        "146": "central-jannat-abad",
+        "147": "shahin",
+        "148": "south-jannat-abad",
+        "151": "north-shahran",
+        "152": "south-shahran",
+        "153": "kan",
+        "154": "baharan",
+        "155": "shahr-ziba",
+        "156": "andisheh",
+        "157": "sazman-aab",
+        "158": "sazman-barnameh",
+        "159": "shahrak-parvaz",
+        "160": "eram",
+        "161": "dehkadeh-olympic",
+        "162": "zibadasht",
+        "163": "shahrak-sadra",
+        "164": "azadi",
+        "165": "shahrak-rahahan",
+        "166": "shahrak-ansar",
+        "167": "ekbatan",
+        "168": "kuy-bimeh",
+        "169": "shahrak-apadana",
+        "170": "kuy-ferdows",
+        "171": "tarasht",
+        "172": "sadeghiyeh",
+        "173": "abazar",
+        "174": "kuy-mehran",
+        "175": "shahrak-esteqlal",
+        "178": "tehransar",
+        "179": "shahrak-darya",
+        "180": "shahrak-aseman",
+        "182": "mehrabad-international-airport",
+        "184": "kuy-17-shahrivar",
+        "185": "shahrak-ferdos",
+        "186": "south-mehr-abad",
+        "187": "shahrak-taleqani",
+        "188": "khalij-fars",
+        "189": "shad-abad",
+        "190": "shahrak-arghavan-emam-khomeyni",
+        "191": "ebrahimabad",
+        "192": "yaftabad",
+        "193": "shahrak-moslemin",
+        "194": "shahrak-vali-asr",
+        "195": "ostad-moein",
+        "196": "jey",
+        "197": "beryanak",
+        "198": "azari",
+        "199": "falah",
+        "200": "daryan-no",
+        "201": "tehran-villa",
+        "202": "shahrara",
+        "203": "towhid",
+        "204": "jamalzadeh",
+        "205": "sattarkhan",
+        "206": "patrice-lumumba",
+        "208": "keshavarz-boulevard",
+        "209": "university-of-tehran",
+        "210": "fatemi",
+        "211": "qezel-qaleh",
+        "212": "shahrak-shahid-mofatteh",
+        "214": "mobarak-abad-beheshti",
+        "216": "hasan-abad-baqerfar",
+        "217": "bagh-rezvan",
+        "219": "karim-abad",
+        "220": "abdol-abad",
+        "221": "hashem-abad-rey",
+        "224": "alain-rey",
+        "227": "zahir-abad",
+        "228": "deylaman",
+        "231": "javanmard-qasab",
+        "232": "mansuriyeh",
+        "233": "dolat-abad",
+        "234": "malekabad",
+        "235": "ali-abad",
+        "236": "shahrak-takhti",
+        "240": "shoosh",
+        "241": "shahrak-kyanshahr",
+        "243": "moshiriyeh",
+        "245": "karevan",
+        "246": "masoodieh",
+        "248": "qasr-firuzeh-do",
+        "249": "afsariyeh",
+        "250": "yakhchi-abad",
+        "251": "chaharsad-dastgah",
+        "252": "nazi-abad",
+        "253": "khazaneh",
+        "254": "bahmanyar",
+        "255": "khani-abad",
+        "256": "esfandiyari",
+        "257": "shahrak-shariati",
+        "259": "shahrak-aboozar",
+        "260": "shahrak-sharifi",
+        "262": "nemat-abad",
+        "263": "shahid-rajaie",
+        "264": "bagh-azari",
+        "265": "javadiyeh",
+        "266": "rumi",
+        "268": "zehtabi",
+        "269": "vasfenard",
+        "270": "hashem-abad",
+        "271": "shahrak-amiralmomenin",
+        "272": "doolab",
+        "273": "ahang",
+        "275": "gomrok",
+        "276": "amir-bahador",
+        "277": "amiriyeh",
+        "278": "moniriyeh",
+        "279": "sangelaj",
+        "280": "pamenar",
+        "281": "sheykh-hadi",
+        "282": "meydan-horr",
+        "283": "eskandari",
+        "284": "salsabil",
+        "285": "darvazeh-shemiran",
+        "286": "khajeh-nasir-tousi",
+        "287": "imam-hossein",
+        "288": "safa",
+        "289": "sad-dastgah",
+        "290": "tehran-delgosha",
+        "291": "aemmeh-ye-athaar",
+        "292": "piroozi",
+        "293": "qasr-firuzeh-yek",
+        "297": "behjat-abad",
+        "298": "iran-shahr",
+        "299": "sanaey",
+        "300": "abbas-abad",
+        "301": "arjantin",
+        "302": "sohrevardi",
+        "306": "chitgar",
+        "307": "shahrak-ghazali",
+        "308": "shahrak-ghazali-cinema",
+        "311": "sarvazad",
+        "312": "navvab",
+        "313": "qods",
+        "315": "vanak",
+        "360": "amaniyeh",
+        "374": "vardavard",
+        "399": "narmak",
+        "418": "rudehen",
+        "419": "bumehen",
+        "420": "pardis",
+        "421": "lavasan",
+        "422": "fasham",
+        "424": "qarchak",
+        "425": "varamin",
+        "426": "robat-karim",
+        "427": "parand",
+        "637": "sharifabad",
+        "638": "pakdasht",
+        "639": "qiamdasht",
+        "653": "shahriar",
+        "654": "azerbaijan",
+        "655": "meydan-enghelab",
+        "656": "shademan",
+        "657": "jeyhoon",
+        "658": "meydan-valiasr",
+        "673": "firuzkuh",
+        "907": "abshar-tehran",
+        "908": "havanirooz",
+        "909": "kouhak",
+        "910": "shahrak-pasdaran",
+        "911": "shahrak-farhangian",
+        "912": "fath",
+        "913": "saeed-abad",
+        "914": "sar-asiyab-mehr-abad",
+        "915": "shamshiri",
+        "916": "tolid-daroo",
+        "917": "behdasht",
+        "918": "dolatkhah",
+        "919": "tehran-hesarak",
+        "920": "bagh-feyz",
+        "921": "shahrak-naft-district5",
+        "922": "parvaz",
+        "923": "kuy-faraz",
+        "924": "hezarsang",
+        "925": "aseman",
+        "926": "sepehr",
+        "927": "eivanak",
+        "928": "university-of-sharif",
+        "929": "darya",
+        "930": "bagh-ferdows",
+        "931": "hekmat",
+        "932": "shahrak-valfajr",
+        "933": "jahad",
+        "934": "tavanir",
+        "935": "nosrat",
+        "936": "nejatollahi",
+        "937": "tehran-khaghani",
+        "938": "bahar",
+        "939": "niloufar",
+        "940": "darb-dowom",
+        "941": "qoba",
+        "942": "hesar-booali",
+        "943": "araj",
+        "944": "kuy-nobonyad",
+        "945": "tehran-kerman",
+        "946": "sorkhe-hesar",
+        "947": "javadiyeh-tehran-pars",
+        "948": "khak-sefid",
+        "949": "tehran-lashkar",
+        "950": "sabalan",
+        "951": "ashtiyani",
+        "952": "hafezie",
+        "953": "tehran-emamat",
+        "954": "south-narmak",
+        "955": "zarkesh",
+        "956": "taslihat",
+        "957": "east-shareq",
+        "958": "khaje-nezam-molk",
+        "959": "tehran-police",
+        "960": "tehran-gorgan",
+        "961": "qasemabad",
+        "962": "dehqan",
+        "963": "shahid-asadi",
+        "964": "zahed-gilani",
+        "965": "parastar",
+        "966": "taxirani",
+        "967": "nabi-akram",
+        "968": "shiva",
+        "969": "shokoofeh",
+        "970": "sarasiab-doolab",
+        "971": "jaberi",
+        "972": "shahed",
+        "973": "saheb-al-zaman",
+        "974": "aref",
+        "975": "mina",
+        "976": "mesgar-abad",
+        "977": "shahadat",
+        "978": "safaiye",
+        "979": "ebn-babevayh",
+        "980": "taqiabad-rey",
+        "981": "abbas-abad-rey",
+        "982": "shahid-avini",
+        "983": "sizdah-aban",
+        "984": "sartakht",
+        "985": "hamzeh-abad",
+        "986": "estakhr-rey",
+        "987": "aqdasiyeh-rey",
+        "988": "firoozabadi",
+        "989": "khani-abad-no",
+        "990": "etehad",
+        "991": "tehran-iran",
+        "992": "abshar",
+        "993": "aminhozour",
+        "994": "ferdowsi",
+        "995": "qiam",
+        "996": "sirous",
+        "997": "kosar",
+        "998": "qalamestan",
+        "999": "salamat",
+        "1000": "makhsous",
+        "1001": "tehran-zanjan",
+        "1002": "hashemi",
+        "1003": "shahid-dastgheyb",
+        "1004": "shabiri",
+        "1005": "soleymani",
+        "1006": "haftchenar",
+        "1007": "bolursazi",
+        "1008": "tehran-shandiz",
+        "1009": "zamzam",
+        "1010": "moqadam",
+        "1011": "tous",
+        "1012": "golchin",
+        "1013": "jalili",
+        "1014": "imam-sajjad",
+        "1015": "bisim",
+        "1016": "tayeb",
+        "1017": "khavaran",
+        "1018": "minabi",
+        "1019": "atabak",
+        "1020": "abuzar",
+        "1021": "imamzadeh-hasan",
+        "1022": "bagh-khazaneh",
+        "1023": "shahid-borujerdi",
+        "1024": "heravi",
+        "1025": "tehran-hosein-abad",
+        "1026": "east-saleh-abad",
+        "1027": "abdollah-abad",
+        "1028": "tehran-jolfa",
+        "1029": "dr-hoshyar",
+        "1030": "shahrak-shahid-bagheri",
+        "1031": "chitgar-lake",
+        "1032": "shahrak-daneshgahi",
+        "1033": "shahrak-daneshgah-tehran",
+        "1034": "sharif",
+        "1035": "shirazi"
+      }
+    },
+    "javanrud": {
+      "slug": "javanrud",
+      "name": "جوانرود",
+      "id": 820
+    },
+    "juybar": {
+      "slug": "juybar",
+      "name": "جویبار",
+      "id": 834
+    },
+    "jahrom": {
+      "slug": "jahrom",
+      "name": "جهرم",
+      "id": 808
+    },
+    "jiroft": {
+      "slug": "jiroft",
+      "name": "جیرفت",
+      "id": 816
+    },
+    "chaboksar": {
+      "slug": "chaboksar",
+      "name": "چابکسر",
+      "id": 864
+    },
+    "chabahar": {
+      "slug": "chabahar",
+      "name": "چابهار",
+      "id": 747
+    },
+    "chalus": {
+      "slug": "chalus",
+      "name": "چالوس",
+      "id": 835
+    },
+    "chahar-dangeh": {
+      "slug": "chahar-dangeh",
+      "name": "چهاردانگه",
+      "id": 782
+    },
+    "hamidia": {
+      "slug": "hamidia",
+      "name": "حمیدیا",
+      "id": 871
+    },
+    "khorramabad": {
+      "slug": "khorramabad",
+      "name": "خرم‌آباد",
+      "id": 27
+    },
+    "khorramdarreh": {
+      "slug": "khorramdarreh",
+      "name": "خرمدره",
+      "id": 803
+    },
+    "khorramshahr": {
+      "slug": "khorramshahr",
+      "name": "خرمشهر",
+      "id": 799
+    },
+    "khalkhal": {
+      "slug": "khalkhal",
+      "name": "خلخال",
+      "id": 772
+    },
+    "khomein": {
+      "slug": "khomein",
+      "name": "خمین",
+      "id": 839
+    },
+    "khoy": {
+      "slug": "khoy",
+      "name": "خوی",
+      "id": 767
+    },
+    "darab": {
+      "slug": "darab",
+      "name": "داراب",
+      "id": 809
+    },
+    "damghan": {
+      "slug": "damghan",
+      "name": "دامغان",
+      "id": 805
+    },
+    "dezful": {
+      "slug": "dezful",
+      "name": "دزفول",
+      "id": 23
+    },
+    "damavand": {
+      "slug": "damavand",
+      "name": "دماوند",
+      "id": 783
+    },
+    "dorud": {
+      "slug": "dorud",
+      "name": "دورود",
+      "id": 752
+    },
+    "dogonbadan": {
+      "slug": "dogonbadan",
+      "name": "دوگنبدان",
+      "id": 874
+    },
+    "dehdasht": {
+      "slug": "dehdasht",
+      "name": "دهدشت",
+      "id": 822
+    },
+    "dehloran": {
+      "slug": "dehloran",
+      "name": "دهلران",
+      "id": 777
+    },
+    "ramsar": {
+      "slug": "ramsar",
+      "name": "رامسر",
+      "id": 745
+    },
+    "ramhormoz": {
+      "slug": "ramhormoz",
+      "name": "رامهرمز",
+      "id": 800
+    },
+    "rasht": {
+      "slug": "rasht",
+      "name": "رشت",
+      "id": 12
+    },
+    "rafsanjan": {
+      "slug": "rafsanjan",
+      "name": "رفسنجان",
+      "id": 817
+    },
+    "rudsar": {
+      "slug": "rudsar",
+      "name": "رودسر",
+      "id": 826
+    },
+    "zabol": {
+      "slug": "zabol",
+      "name": "زابل",
+      "id": 706
+    },
+    "zahedan": {
+      "slug": "zahedan",
+      "name": "زاهدان",
+      "id": 11
+    },
+    "zarand": {
+      "slug": "zarand",
+      "name": "زرند",
+      "id": 867
+    },
+    "zanjan": {
+      "slug": "zanjan",
+      "name": "زنجان",
+      "id": 20
+    },
+    "sari": {
+      "slug": "sari",
+      "name": "ساری",
+      "id": 22
+    },
+    "saveh": {
+      "slug": "saveh",
+      "name": "ساوه",
+      "id": 671
+    },
+    "sabzevar": {
+      "slug": "sabzevar",
+      "name": "سبزوار",
+      "id": 316
+    },
+    "sarab": {
+      "slug": "sarab",
+      "name": "سراب",
+      "id": 852
+    },
+    "saravan": {
+      "slug": "saravan",
+      "name": "سراوان-سیستان و بلوچستان",
+      "id": 865
+    },
+    "sarpol-zahab": {
+      "slug": "sarpol-zahab",
+      "name": "سرپل ذهاب",
+      "id": 854
+    },
+    "sardasht": {
+      "slug": "sardasht",
+      "name": "سردشت",
+      "id": 857
+    },
+    "saqqez": {
+      "slug": "saqqez",
+      "name": "سقز",
+      "id": 812
+    },
+    "salmas": {
+      "slug": "salmas",
+      "name": "سلماس",
+      "id": 768
+    },
+    "semnan": {
+      "slug": "semnan",
+      "name": "سمنان",
+      "id": 35
+    },
+    "sonqor": {
+      "slug": "sonqor",
+      "name": "سنقر",
+      "id": 855
+    },
+    "sanandaj": {
+      "slug": "sanandaj",
+      "name": "سنندج",
+      "id": 28
+    },
+    "susangerd": {
+      "slug": "susangerd",
+      "name": "سوسنگرد",
+      "id": 756
+    },
+    "sahand": {
+      "slug": "sahand",
+      "name": "سهند",
+      "id": 761
+    },
+    "siahkal": {
+      "slug": "siahkal",
+      "name": "سیاهکل",
+      "id": 861
+    },
+    "sirjan": {
+      "slug": "sirjan",
+      "name": "سیرجان",
+      "id": 818
+    },
+    "shahroud": {
+      "slug": "shahroud",
+      "name": "شاهرود",
+      "id": 707
+    },
+    "shahin-dej": {
+      "slug": "shahin-dej",
+      "name": "شاهین دژ",
+      "id": 858
+    },
+    "shush": {
+      "slug": "shush",
+      "name": "شوش",
+      "id": 754
+    },
+    "shooshtar": {
+      "slug": "shooshtar",
+      "name": "شوشتر",
+      "id": 602
+    },
+    "sadra": {
+      "slug": "sadra",
+      "name": "صدرا-فارس",
+      "id": 810
+    },
+    "shahrekord": {
+      "slug": "shahrekord",
+      "name": "شهرکرد",
+      "id": 36
+    },
+    "shiraz": {
+      "slug": "shiraz",
+      "name": "شیراز",
+      "id": 6,
+      "districts": {
+        "500": "sadra-phase2",
+        "501": "sadra-phase1",
+        "502": "shahrak-golestaan",
+        "503": "moaliabad",
+        "504": "marvdasht",
+        "505": "molla-sadra",
+        "506": "modarres-boulevard",
+        "507": "farhang-shahr",
+        "508": "chamran",
+        "509": "atlasi",
+        "510": "sanaye",
+        "511": "rahmat-boulevard",
+        "512": "tachara",
+        "513": "valfajr",
+        "514": "kazerun",
+        "515": "ghasr-dasht",
+        "516": "mianrood",
+        "517": "seraj",
+        "518": "paramont",
+        "519": "north-bahonar",
+        "520": "south-bahonar",
+        "521": "amir-kabir",
+        "522": "eram-shiraz",
+        "523": "sattar-khan",
+        "524": "kolbeh",
+        "525": "meydan-moalem",
+        "526": "fasa",
+        "527": "fazilat-boulevard",
+        "528": "sardaran",
+        "529": "zand",
+        "530": "nasr",
+        "531": "east-ghodoosi",
+        "532": "west-ghodoosi",
+        "533": "zargari",
+        "534": "saadi-cinema",
+        "535": "afif-abad",
+        "536": "shahrak-beheshti",
+        "537": "shahrak-rokn-abad",
+        "538": "bani-hashemi",
+        "539": "delgosha",
+        "540": "goldasht-hafez",
+        "541": "adabiat",
+        "542": "shahrak-parvaaz",
+        "543": "edalat-boulevard",
+        "544": "kholde-barin",
+        "545": "pasdaraan",
+        "546": "south-iman",
+        "547": "north-iman",
+        "548": "paygah-havayi",
+        "549": "forsat-shirazi",
+        "550": "fargaz",
+        "551": "jomhoori",
+        "552": "azaadi",
+        "553": "siahatgar",
+        "554": "shahrak-motahhari",
+        "555": "besat",
+        "556": "ghadir-bridge",
+        "557": "south-safir",
+        "558": "north-safir",
+        "559": "motahari",
+        "560": "artesh",
+        "561": "pasargad",
+        "562": "setad",
+        "563": "kuy-zahra",
+        "640": "ziba-shahr",
+        "641": "fakhr-abad"
+      }
+    },
+    "shirvan": {
+      "slug": "shirvan",
+      "name": "شیروان",
+      "id": 795
+    },
+    "someh-sara": {
+      "slug": "someh-sara",
+      "name": "صومعه‌سرا",
+      "id": 827
+    },
+    "taleqan": {
+      "slug": "taleqan",
+      "name": "طالقان",
+      "id": 850
+    },
+    "tabas": {
+      "slug": "tabas",
+      "name": "طبس",
+      "id": 788
+    },
+    "aliabad-katul": {
+      "slug": "aliabad-katul",
+      "name": "علی‌آباد کتول",
+      "id": 823
+    },
+    "farrokhshahr": {
+      "slug": "farrokhshahr",
+      "name": "فرخ‌شهر",
+      "id": 786
+    },
+    "ferdows": {
+      "slug": "ferdows",
+      "name": "فردوس",
+      "id": 789
+    },
+    "fereydunkenar": {
+      "slug": "fereydunkenar",
+      "name": "فریدون‌کنار",
+      "id": 836
+    },
+    "falavarjan": {
+      "slug": "falavarjan",
+      "name": "فلاورجان",
+      "id": 849
+    },
+    "fuman": {
+      "slug": "fuman",
+      "name": "فومن",
+      "id": 860
+    },
+    "qaemshahr": {
+      "slug": "qaemshahr",
+      "name": "قائم‌شهر",
+      "id": 665
+    },
+    "ghayen": {
+      "slug": "ghayen",
+      "name": "قاين",
+      "id": 790
+    },
+    "qorveh": {
+      "slug": "qorveh",
+      "name": "قروه",
+      "id": 813
+    },
+    "qazvin": {
+      "slug": "qazvin",
+      "name": "قزوین",
+      "id": 19
+    },
+    "qeshm": {
+      "slug": "qeshm",
+      "name": "قشم",
+      "id": 660
+    },
+    "qom": {
+      "slug": "qom",
+      "name": "قم",
+      "id": 8,
+      "districts": {
+        "600": "pardisan-qom",
+        "601": "safaeieh",
+        "603": "19-dey",
+        "604": "bonyad",
+        "605": "emam",
+        "606": "shahid-sadooqi",
+        "607": "tohid",
+        "608": "amin-boulevard",
+        "609": "azadegan",
+        "610": "salarieh",
+        "611": "azar",
+        "612": "haram",
+        "613": "dourshahr",
+        "614": "shahrak-qods",
+        "615": "jomhoori-eslami",
+        "616": "attaran",
+        "617": "honarestan-qom",
+        "618": "somayeh",
+        "619": "haft-e-tir-qom",
+        "620": "kalhori",
+        "621": "safa-shahar",
+        "622": "ensejam",
+        "623": "keyvanfar",
+        "624": "police",
+        "625": "ammar-yasir",
+        "626": "payame-noor",
+        "627": "danial",
+        "628": "yazdan-shahr",
+        "629": "enqelab",
+        "630": "ansar-alhossein",
+        "631": "emamzade-ebrahim",
+        "632": "modarres",
+        "633": "15-khordad",
+        "634": "kashani-boulevard",
+        "635": "shahid-beheshti",
+        "636": "golzar"
+      }
+    },
+    "qeydar": {
+      "slug": "qeydar",
+      "name": "قیدار",
+      "id": 804
+    },
+    "kashan": {
+      "slug": "kashan",
+      "name": "کاشان",
+      "id": 30
+    },
+    "karaj": {
+      "slug": "karaj",
+      "name": "کرج",
+      "id": 2,
+      "districts": {
+        "565": "fardis",
+        "566": "gohardasht",
+        "567": "mehrshahr",
+        "568": "golshahr",
+        "569": "azimieh",
+        "570": "shahinvila",
+        "571": "mehrvila",
+        "572": "jahanshahr",
+        "573": "baghestan",
+        "574": "hashtgerd",
+        "575": "hashtgerd-new-city",
+        "576": "andisheh-new-town",
+        "577": "marlik",
+        "578": "mohammad-shahr",
+        "579": "hesarak",
+        "580": "mesbah",
+        "581": "kamalshahr",
+        "582": "kianmehr",
+        "583": "mahdasht",
+        "584": "shahriar-karaj",
+        "585": "haft-e-tir-karaj",
+        "586": "taleghani-karaj",
+        "587": "manzariyeh-karaj",
+        "588": "khorramdasht",
+        "589": "azadegan-karaj",
+        "590": "banafsheh",
+        "591": "dehghanvila",
+        "592": "malard",
+        "593": "meshkindasht",
+        "594": "vahdat-town",
+        "595": "meydan-nabovvat",
+        "596": "shahrak-owj",
+        "597": "sasani",
+        "598": "derakhti"
+      }
+    },
+    "kordkuy": {
+      "slug": "kordkuy",
+      "name": "کردکوی",
+      "id": 750
+    },
+    "kerman": {
+      "slug": "kerman",
+      "name": "کرمان",
+      "id": 13
+    },
+    "kermanshah": {
+      "slug": "kermanshah",
+      "name": "کرمانشاه",
+      "id": 9
+    },
+    "kelachay": {
+      "slug": "kelachay",
+      "name": "کلاچای",
+      "id": 863
+    },
+    "kangavar": {
+      "slug": "kangavar",
+      "name": "کنگاور",
+      "id": 821
+    },
+    "kuhdasht": {
+      "slug": "kuhdasht",
+      "name": "کوهدشت",
+      "id": 831
+    },
+    "kish": {
+      "slug": "kish",
+      "name": "کیش",
+      "id": 33
+    },
+    "gorgan": {
+      "slug": "gorgan",
+      "name": "گرگان",
+      "id": 21
+    },
+    "garmsar": {
+      "slug": "garmsar",
+      "name": "گرمسار",
+      "id": 806
+    },
+    "golpayegan": {
+      "slug": "golpayegan",
+      "name": "گلپایگان",
+      "id": 848
+    },
+    "gomishan": {
+      "slug": "gomishan",
+      "name": "گمیشان",
+      "id": 749
+    },
+    "gonabad": {
+      "slug": "gonabad",
+      "name": "گناباد",
+      "id": 847
+    },
+    "gonbad-kavus": {
+      "slug": "gonbad-kavus",
+      "name": "گنبد کاووس",
+      "id": 743
+    },
+    "lahijan": {
+      "slug": "lahijan",
+      "name": "لاهیجان",
+      "id": 746
+    },
+    "lordegan": {
+      "slug": "lordegan",
+      "name": "لردگان",
+      "id": 787
+    },
+    "langarud": {
+      "slug": "langarud",
+      "name": "لنگرود",
+      "id": 828
+    },
+    "masal": {
+      "slug": "masal",
+      "name": "ماسال",
+      "id": 862
+    },
+    "maku": {
+      "slug": "maku",
+      "name": "ماکو",
+      "id": 856
+    },
+    "mahalat": {
+      "slug": "mahalat",
+      "name": "محلات",
+      "id": 840
+    },
+    "mohammadiyeh": {
+      "slug": "mohammadiyeh",
+      "name": "محمدیه-قزوین",
+      "id": 873
+    },
+    "mahmudabad": {
+      "slug": "mahmudabad",
+      "name": "محمودآباد",
+      "id": 837
+    },
+    "maragheh": {
+      "slug": "maragheh",
+      "name": "مراغه",
+      "id": 762
+    },
+    "marand": {
+      "slug": "marand",
+      "name": "مرند",
+      "id": 763
+    },
+    "marivan": {
+      "slug": "marivan",
+      "name": "مریوان",
+      "id": 814
+    },
+    "masjed-soleyman": {
+      "slug": "masjed-soleyman",
+      "name": "مسجد سلیمان",
+      "id": 317
+    },
+    "meshgin-shahr": {
+      "slug": "meshgin-shahr",
+      "name": "مشکین‌شهر",
+      "id": 773
+    },
+    "mashhad": {
+      "slug": "mashhad",
+      "name": "مشهد",
+      "id": 3,
+      "districts": {
+        "428": "ghasem-abad",
+        "429": "pirouzi",
+        "430": "vakilabad",
+        "431": "azadshahr-mashhad",
+        "432": "hashemiye",
+        "433": "reza-shahr",
+        "434": "moalem",
+        "435": "sajjad-shahr",
+        "436": "tollab",
+        "437": "abutaleb",
+        "438": "khayyam",
+        "439": "felestin",
+        "440": "ahmadabad",
+        "441": "tooraj",
+        "442": "rahnamaei",
+        "443": "kolahdouz",
+        "444": "goharshad",
+        "445": "emamat",
+        "446": "ebadi",
+        "447": "faramaz-abbasi",
+        "448": "north-motahhari",
+        "449": "south-motahari",
+        "450": "tabarsi",
+        "451": "mosalla",
+        "452": "17-shahrivar",
+        "453": "toroq",
+        "454": "torghabeh",
+        "455": "ghaem",
+        "456": "lashkar",
+        "457": "kuh-sangi",
+        "458": "beheshti",
+        "459": "sarafrazan",
+        "460": "sayyad-shirazi",
+        "461": "nofel-loshato",
+        "462": "sanabaad",
+        "463": "daneshjoo",
+        "464": "seyyed-razi",
+        "465": "abdol-motalleb",
+        "466": "golbahar",
+        "467": "haft-e-tir",
+        "468": "ferdowsi-boulevard",
+        "470": "andishe",
+        "472": "hedayat",
+        "473": "emam-khomeini",
+        "474": "holy-shrine",
+        "475": "meydan-shohada",
+        "476": "meydan-adl-khomeini",
+        "477": "honarestan",
+        "478": "imam-reza",
+        "479": "mousavi-ghoochani",
+        "480": "ladan",
+        "481": "torbat-heydariyeh",
+        "482": "kowsar",
+        "484": "saremi",
+        "485": "kashmar",
+        "486": "zed-square",
+        "487": "shandiz",
+        "488": "elahiyeh-boulevard",
+        "489": "kuy-mahdi",
+        "490": "barq-square",
+        "491": "sadi",
+        "492": "danesh-amouz",
+        "493": "quchan",
+        "494": "jalal-al-e-ahmad-boulevard",
+        "495": "east-gaaz",
+        "496": "gonbad-sabz",
+        "497": "janbaz",
+        "498": "resalat",
+        "642": "toos-boulevard",
+        "643": "shahrak-rajayi"
+      }
+    },
+    "malayer": {
+      "slug": "malayer",
+      "name": "ملایر",
+      "id": 843
+    },
+    "mahabad": {
+      "slug": "mahabad",
+      "name": "مهاباد",
+      "id": 769
+    },
+    "miandoab": {
+      "slug": "miandoab",
+      "name": "میاندوآب",
+      "id": 792
+    },
+    "mianeh": {
+      "slug": "mianeh",
+      "name": "میانه",
+      "id": 764
+    },
+    "meybod": {
+      "slug": "meybod",
+      "name": "میبد",
+      "id": 845
+    },
+    "minab": {
+      "slug": "minab",
+      "name": "میناب",
+      "id": 841
+    },
+    "najafabad": {
+      "slug": "najafabad",
+      "name": "نجف‌آباد",
+      "id": 31
+    },
+    "nasimshahr": {
+      "slug": "nasimshahr",
+      "name": "نسیم‌شهر",
+      "id": 784
+    },
+    "nazarabad": {
+      "slug": "nazarabad",
+      "name": "نظرآباد",
+      "id": 774
+    },
+    "naqadeh": {
+      "slug": "naqadeh",
+      "name": "نقده",
+      "id": 770
+    },
+    "neka": {
+      "slug": "neka",
+      "name": "نکا",
+      "id": 838
+    },
+    "nur": {
+      "slug": "nur",
+      "name": "نور",
+      "id": 744
+    },
+    "nurabad": {
+      "slug": "nurabad",
+      "name": "نورآباد",
+      "id": 753
+    },
+    "nowshahr": {
+      "slug": "nowshahr",
+      "name": "نوشهر",
+      "id": 709
+    },
+    "nahavand": {
+      "slug": "nahavand",
+      "name": "نهاوند",
+      "id": 844
+    },
+    "neyshabur": {
+      "slug": "neyshabur",
+      "name": "نیشابور",
+      "id": 318
+    },
+    "hamedan": {
+      "slug": "hamedan",
+      "name": "همدان",
+      "id": 14
+    },
+    "yasuj": {
+      "slug": "yasuj",
+      "name": "یاسوج",
+      "id": 38
+    },
+    "yazd": {
+      "slug": "yazd",
+      "name": "یزد",
+      "id": 16
+    }
+  }
+}
